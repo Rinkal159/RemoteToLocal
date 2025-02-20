@@ -9,7 +9,7 @@ function changeValue(arr)  {
     
 } 
 
- changeValue(num)
+changeValue(num)
 
 const a = 12;
 const b = 13;
