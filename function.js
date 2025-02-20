@@ -11,3 +11,11 @@ function changeValue(arr)  {
 
  changeValue(num)
 
+const a = 12;
+const b = 13;
+
+function addSum(x,y) {
+    return x+y;
+}
+
+console.log(`sum is ${addSum(a,b)}`);
